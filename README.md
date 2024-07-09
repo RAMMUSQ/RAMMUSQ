@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @RAMMUSQ
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @RAMMUSQ
+- 👀 I’m interested in ASP.NET Core and Arduino
+- 🌱 I’m currently learning ASP.NET Core and working on various Arduino projects
+- 💞️ I’m looking to collaborate on .NET and IoT projects
+- 📫 How to reach me: [r.bakan34@gmail.com]
 
 <!---
 RAMMUSQ/RAMMUSQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
