@@ -1,4 +1,4 @@
-👋 Hi, I’m @RAMMUSQ
+👋 Hi, I’m @Ramazan Bakan
 - 👀 I’m interested in ASP.NET Core and Arduino
 - 🌱 I’m currently learning ASP.NET Core and working on various Arduino projects
 - 💞️ I’m looking to collaborate on .NET and IoT projects
